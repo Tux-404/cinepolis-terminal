@@ -129,8 +129,8 @@ cinepolis-terminal/
 
 ## 👤 Author
 
-**Ed-404**
-- GitHub: [@Ed-404](https://github.com/Ed-404)
+**Tux-404**
+- GitHub: [@Tux-404](https://github.com/Tux-404)
 
 ---
 
